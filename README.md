@@ -28,8 +28,8 @@ The main objective of this project is to transform raw mobile sales data into an
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <a href="./Screenshot%202026-08-25%20112611.png">
-    <img src="./Screenshot%202026-08-25%20112611.png" alt="Motorola Mobile Sales Dashboard" width="100%">
+  <a href="./Screenshot 2026-08-25 114657.png1.png">
+    <img src="./Screenshot 2026-08-25 114657.png" alt="Motorola Mobile Sales Dashboard" width="100%">
   </a>
 </p>
 
