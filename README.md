@@ -2,25 +2,25 @@
 
 ## 📌 Project Overview
 
-The **Motorola Mobile Sales Dashboard** is an interactive **Power BI dashboard** designed to analyze and visualize mobile sales performance.
+The **Motorola Mobile Sales Dashboard** is an interactive Power BI dashboard developed to analyze and visualize mobile sales performance.
 
-The dashboard provides meaningful business insights into **total sales, quantity sold, transactions, monthly trends, mobile model performance, payment methods, customer ratings, brands, and city-wise sales distribution**.
+The dashboard provides insights into **total sales, total quantity, transactions, monthly sales trends, mobile model performance, customer ratings, payment methods, brands, and city-wise sales distribution**.
 
-This project demonstrates practical skills in **Microsoft Power BI, Power Query, DAX, Data Modeling, Data Visualization, and Dashboard Development**.
+This project demonstrates practical skills in **Power BI, Power Query, DAX, Data Modeling, Data Cleaning, and Data Visualization**.
 
 ---
 
 ## 🎯 Project Objective
 
-The main objective of this project is to transform raw mobile sales data into an interactive and easy-to-understand dashboard that helps identify:
+The main objective of this project is to transform raw mobile sales data into an interactive dashboard that helps identify:
 
 - Overall sales performance
-- Monthly quantity trends
+- Monthly sales and quantity trends
 - Top-performing mobile models
 - Customer rating distribution
 - Preferred payment methods
 - City-wise sales distribution
-- Brand and product performance
+- Brand performance
 - Transaction performance
 
 ---
@@ -28,39 +28,41 @@ The main objective of this project is to transform raw mobile sales data into an
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <a href="assets/Motorola-Mobile-Sales-Dashboard.png">
-    <img src="assets/Motorola-Mobile-Sales-Dashboard.png" alt="Motorola Mobile Sales Dashboard" width="100%">
+  <a href="./Screenshot%202026-08-25%20112611.png">
+    <img src="./Screenshot%202026-08-25%20112611.png" alt="Motorola Mobile Sales Dashboard" width="100%">
   </a>
 </p>
 
 <p align="center">
-  🔍 <i>Click on the dashboard image to view it in full size.</i>
+  <i>Click on the dashboard image to view it in full size.</i>
 </p>
 
 ---
 
-## 📈 Key Dashboard Components
+## 📈 Key Performance Indicators
 
-### 💰 Sales Overview
+| KPI | Value |
+|---|---:|
+| 💰 Total Sales | 769M |
+| 📦 Total Quantity | 19K |
+| 🧾 Total Transactions | 4K |
+| 📊 Average | 40K |
 
-The dashboard includes the following key performance indicators:
+---
 
-- **Total Sales:** 769M
-- **Total Quantity:** 19K
-- **Total Transactions:** 4K
-- **Average:** 40K
+## 📊 Dashboard Features
 
 ### 📅 Monthly Analysis
 
-The monthly trend visual helps analyze quantity sold across different months and identify sales trends.
+The dashboard analyzes monthly quantity and sales trends to identify changes in sales performance throughout the year.
 
 ### 📱 Mobile Model Analysis
 
-The dashboard compares sales performance across different mobile models to identify top-performing products.
+Sales performance is compared across different mobile models to identify high-performing products.
 
 ### 💳 Payment Method Analysis
 
-Sales are analyzed based on:
+The dashboard analyzes sales based on:
 
 - Debit Card
 - Cash
@@ -71,30 +73,32 @@ Sales are analyzed based on:
 
 Customer ratings from **1 to 5** are analyzed to understand customer satisfaction.
 
-### 🗺️ City-wise Analysis
+### 🗺️ City-wise Sales Analysis
 
 The map visualization provides a geographical view of mobile sales across different cities in India.
 
 ### 🏷️ Brand Analysis
 
-The dashboard allows users to filter and analyze sales performance by brand.
+Users can filter the dashboard by brand to analyze brand-level sales performance.
 
 ---
 
 ## 🎛️ Interactive Filters
 
-Users can dynamically filter the dashboard using:
+The dashboard contains interactive filters for:
 
 - Month
 - Mobile Model
 - Payment Method
 - Brand
 
+These filters allow users to perform dynamic analysis and explore different aspects of the sales data.
+
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI**
+- **Microsoft Power BI**
 - **Power Query**
 - **DAX**
 - **Data Modeling**
@@ -104,19 +108,19 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-## 🔄 Data Analysis Process
+## 🔄 Data Analysis Workflow
 
 ```text
 Raw Mobile Sales Data
-          ↓
+        ↓
 Data Cleaning & Transformation
-          ↓
+        ↓
 Power Query
-          ↓
+        ↓
 Data Modeling
-          ↓
+        ↓
 DAX Measures
-          ↓
-Interactive Visualizations
-          ↓
+        ↓
+Interactive Dashboard
+        ↓
 Business Insights
