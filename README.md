@@ -4,7 +4,7 @@
 
 The **Motorola Mobile Sales Dashboard** is an interactive Power BI dashboard developed to analyze and visualize mobile sales performance.
 
-The dashboard provides insights into **total sales, total quantity, transactions, monthly sales trends, mobile model performance, customer ratings, payment methods, brands, and city-wise sales distribution**.
+The dashboard provides insights into **total sales, total quantity, transactions, monthly trends, mobile model performance, customer ratings, payment methods, brands, and city-wise sales distribution**.
 
 This project demonstrates practical skills in **Power BI, Power Query, DAX, Data Modeling, Data Cleaning, and Data Visualization**.
 
@@ -12,7 +12,7 @@ This project demonstrates practical skills in **Power BI, Power Query, DAX, Data
 
 ## 🎯 Project Objective
 
-The main objective of this project is to transform raw mobile sales data into an interactive dashboard that helps identify:
+The main objective of this project is to transform raw mobile sales data into an interactive and easy-to-understand dashboard that helps identify:
 
 - Overall sales performance
 - Monthly sales and quantity trends
@@ -28,13 +28,13 @@ The main objective of this project is to transform raw mobile sales data into an
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <a href="./Screenshot 2026-08-25 114657.png1.png">
-    <img src="./Screenshot 2026-08-25 114657.png" alt="Motorola Mobile Sales Dashboard" width="100%">
+  <a href="./Screenshot%202026-08-25%20114657.png">
+    <img src="./Screenshot%202026-08-25%20114657.png" alt="Motorola Mobile Sales Dashboard" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <i>Click on the dashboard image to view it in full size.</i>
+  🔍 <i>Click on the dashboard image to view it in full size.</i>
 </p>
 
 ---
